@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000328_0000_0FA4AA7BD47BBE70"/>
-            <pb facs="tcp:000328_0001_0FA4AA76A8CCEA70"/>
+            <pb facs="unknown:000328_0000_0FA4AA7BD47BBE70"/>
+            <pb facs="unknown:000328_0001_0FA4AA76A8CCEA70"/>
             <p>THE Foundation of Christian Religion Gathered into Six PRINCIPLES And it is to be learned of ignorant People that they may be fit to hear Sermons with profit, and to receive the Lords Supper with Com<g ref="char:EOLhyphen"/>fort.</p>
             <q>
                <bibl>PSAL. <hi>119.</hi> Ver. <hi>133.</hi>
@@ -125,7 +125,8 @@
             <p>BOSTON IN NEW-ENGLAND Printed by <hi>Samuel Green,</hi> and sold by <hi>Mary Avery</hi> near the <hi>Blue Anchor</hi> in <hi>Boston.</hi> 1682.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000328_0002_0FA4AA77A1156410" rendition="simple:additions"/>
+            <pb facs="unknown:000328_0002_0FA4AA77A1156410"
+                rendition="simple:additions"/>
             <head>TO ALL Ignorant People That desire to be <hi>INSTRVCTED.</hi>
             </head>
             <p>
@@ -137,7 +138,7 @@
             <p n="4">4. That it is pity that he should live which doth any whit doubt of his salva<g ref="char:EOLhyphen"/>tion.</p>
             <p n="5">5. That none can tell whether he shall be saved or not certainly; but that all men must be of a good belief.</p>
             <p n="6">6. That howsoever a man live, yet if he call upon God on his death-bed, and
-<pb facs="tcp:000328_0003_0FA4AA782A4F0E00"/>
+<pb facs="unknown:000328_0003_0FA4AA782A4F0E00"/>
 say, <hi>Lord have mercy upon me,</hi> and so go away like a lamb, he is certainly saved</p>
             <p n="7">7. That if any be strangely visited, he is either taken with a Planet, or bewit<g ref="char:EOLhyphen"/>ched.</p>
             <p n="8">8. That a man may lawfully swear when he speaketh nothing but the truth, and swears by nothing, but that which is good, as by his faith and troth.</p>
@@ -151,7 +152,7 @@ say, <hi>Lord have mercy upon me,</hi> and so go away like a lamb, he is certain
             <p n="14">14. That merry Ballads and Books, as <hi>Skoggin, Bevis of Southampton,</hi> &amp;c. are good to drive away the time, and to re<g ref="char:EOLhyphen"/>move heart qualms.</p>
             <p n="15">15. That ye can serve God with all your hearts; and that you would be sorry else</p>
             <p n="16">
-               <pb facs="tcp:000328_0004_0FA4AA78F9253A08"/>16. That a man need not hear so many Sermons, except he could follow them better.</p>
+               <pb facs="unknown:000328_0004_0FA4AA78F9253A08"/>16. That a man need not hear so many Sermons, except he could follow them better.</p>
             <p n="17">17. That a man, which cometh at no Sermons, may as well believe, as he which hears all the Sermons in the world.</p>
             <p n="18">18. That ye know all the Preacher can tell you: for he can say nothing, but that every man is a sinner, that we must love our neighbour as ovr selves, that every man must be saved by Christ: and all this ye can tell as well as he.</p>
             <p n="19">19. That it was a good world, when the old Religion was, because all things were cheap.</p>
@@ -160,7 +161,7 @@ say, <hi>Lord have mercy upon me,</hi> and so go away like a lamb, he is certain
             <p n="22">22. That every man must be for him<g ref="char:EOLhyphen"/>self, and God for us all.</p>
             <p n="23">23. That a man may make of his own whatsoever he can.</p>
             <p n="24">24. That if a man remember to say
-<pb facs="tcp:000328_0005_0FA4AA79C45C12D8"/>
+<pb facs="unknown:000328_0005_0FA4AA79C45C12D8"/>
 his prayers every morning (though he never understand them) he hath blessed himself for all the day following.</p>
             <p n="25">25. That a man prayeth, when he saith the ten Commandments.</p>
             <p n="26">26. That a man eats his Maker in the Sacrament.</p>
@@ -172,7 +173,7 @@ his prayers every morning (though he never understand them) he hath blessed hims
             <p n="32">32. That ye have so strong a Faith in Christ, that no evil company can hurt you.</p>
             <p>
                <hi>These and such like sayings, what argue they, but your gross ignorance? now where
-<pb facs="tcp:000328_0006_0FA4AA7BF4C02680"/>
+<pb facs="unknown:000328_0006_0FA4AA7BF4C02680"/>
 ignorance raigneth, there raigns sin, and where sin raigns, there the devil rules; and where he rules, men are in a damnable case. Ye will reply unto me thus: that ye are not so bad as I would make you. If need be, you can say the Creed, the Lords Prayer and the ten Commandments: and there<g ref="char:EOLhyphen"/>fore ye will be of Gods belief, say all men what they will, and you defie the Devil from your hearts.</hi>
             </p>
             <p>
@@ -180,7 +181,7 @@ ignorance raigneth, there raigns sin, and where sin raigns, there the devil rule
             </p>
             <p>
                <hi>And for an help in this your ignorance to bring you to true knowledge, unfeigned Faith and sound Repentance, here I have set down the principal points of Christian Re<g ref="char:EOLhyphen"/>ligion in six plain and easie Rules, even such as the simplest may easily learn: and here<g ref="char:EOLhyphen"/>unto is adjoyned an Exposition of them word by word. If ye do want other good directions, then use this my labour for your good instruction. In reading of it, first learn
-<pb facs="tcp:000328_0007_0FA4AA7CCCEBC128"/>
+<pb facs="unknown:000328_0007_0FA4AA7CCCEBC128"/>
 the six Principles: and when you have them without book, and the meaning of them withal, thtn learn the exposition also which being well conceived, and in some measure felt in the heart, ye shall be able to profit by Sermons, whereas now ye cannot; and the ordinary parts of the Catechisme, namely, the ten Commandments, the Creed, the Lords Prayer, and the institution of the two Sacraments, shall more easily be un<g ref="char:EOLhyphen"/>derstood.</hi>
             </p>
             <closer>
@@ -191,7 +192,7 @@ the six Principles: and when you have them without book, and the meaning of them
       </front>
       <body>
          <div type="principles">
-            <pb facs="tcp:000328_0008_0FA4AA7D65367570"/>
+            <pb facs="unknown:000328_0008_0FA4AA7D65367570"/>
             <head>The Foundation of Christian Religion Gathered into six PRINCIPLES.</head>
             <div n="1" type="principle">
                <head>The first Principle.</head>
@@ -214,7 +215,7 @@ the six Principles: and when you have them without book, and the meaning of them
                <div n="2" type="proof">
                   <head>2 This God is one.</head>
                   <p>
-                     <pb n="2" facs="tcp:000328_0009_0FA4AA7F0086E728"/>Concerning therefore meats sacrificed to Idols, we know that an Idol is nothing in the world: and that there is none other God but one.<note place="margin">
+                     <pb n="2" facs="unknown:000328_0009_0FA4AA7F0086E728"/>Concerning therefore meats sacrificed to Idols, we know that an Idol is nothing in the world: and that there is none other God but one.<note place="margin">
                         <hi>1 Cor. 8.4.</hi>
                      </note>
                   </p>
@@ -254,7 +255,7 @@ the six Principles: and when you have them without book, and the meaning of them
                </div>
             </div>
             <div n="2" type="principle">
-               <pb n="3" facs="tcp:000328_0010_0FA4AA7FA475A610"/>
+               <pb n="3" facs="unknown:000328_0010_0FA4AA7FA475A610"/>
                <head>The second Principle.</head>
                <p>
                   <hi>Q.</hi> What doest thou believe concern<g ref="char:EOLhyphen"/>ing man, and concerning thine own self?</p>
@@ -286,7 +287,7 @@ the six Principles: and when you have them without book, and the meaning of them
                      </note> and all the imaginations of the thoughts of his heart were only evil continually.</p>
                </div>
                <div n="3" type="proof">
-                  <pb n="4" facs="tcp:000328_0011_0FA4AA83C390BC28"/>
+                  <pb n="4" facs="unknown:000328_0011_0FA4AA83C390BC28"/>
                   <head>3. Through <hi>Adams</hi> fall.</head>
                   <p>Wherefore as by one man sin entred into the world, and death by sin, and so death went over all men,<note place="margin">
                         <hi>Rom. 5.12.</hi>
@@ -315,7 +316,7 @@ the six Principles: and when you have them without book, and the meaning of them
                            </gap>
                         </hi>
                      </note>For as many as are of the works of the Law are under the curse: for it is written Cursed is every man that continueth not in all things which are written in the book of the Law, to do them. Likewise then as by
-<pb n="5" facs="tcp:000328_0012_0FA4AA857676CF60"/>
+<pb n="5" facs="unknown:000328_0012_0FA4AA857676CF60"/>
 the offence of one, the fault came on all men to condemnation: so by the justifying of one, the benefit abounded towards all men to the justification of life.</p>
                </div>
             </div>
@@ -350,7 +351,7 @@ the offence of one, the fault came on all men to condemnation: so by the justify
                   <head>4. And by his righteousness.<note place="margin">Rom. 5.19.</note>
                   </head>
                   <p>For as by one mans disobedience many
-<pb n="6" facs="tcp:000328_0013_0FA4AA85A6189810"/>
+<pb n="6" facs="unknown:000328_0013_0FA4AA85A6189810"/>
 were made sinners, so by the obedience of one shall many be made righteous.</p>
                   <p>
                      <hi>For he hath made him to be sin for us, which knew no sin,</hi>
@@ -386,7 +387,7 @@ were made sinners, so by the obedience of one shall many be made righteous.</p>
                <div n="1" type="proof">
                   <head>1. A man of a contrite and humble spirit.</head>
                   <p>
-                     <pb n="7" facs="tcp:000328_0014_0FA4AD37B318CF80"/>For thus saith he that is high and excel<g ref="char:EOLhyphen"/>lent he that inhabiteth eternity,<note place="margin">
+                     <pb n="7" facs="unknown:000328_0014_0FA4AD37B318CF80"/>For thus saith he that is high and excel<g ref="char:EOLhyphen"/>lent he that inhabiteth eternity,<note place="margin">
                         <hi>Isai. 57.15</hi>
                      </note> whose name is the Holy one; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to give life to them that are of a contrite heart.</p>
                   <p>The sacrifices of God are a contrite spirit: a contrite and broken heart,<note place="margin">
@@ -414,7 +415,7 @@ were made sinners, so by the obedience of one shall many be made righteous.</p>
                   <p>But as many as received him, to them he gave power to be the sons of God,<note place="margin">
                         <hi>Joh. 1.12</hi>
                      </note> to them that believe in his name. And Jesus said
-<pb n="8" facs="tcp:000328_0015_0FA4AD388CC3BEF8"/>
+<pb n="8" facs="unknown:000328_0015_0FA4AD388CC3BEF8"/>
 unto them, I am the bread of life, he that cometh to me,<note place="margin">
                         <hi>John 6.35</hi>
                      </note> shall not hunger, and he that believeth in me, shall never thirst.</p>
@@ -451,7 +452,7 @@ unto them, I am the bread of life, he that cometh to me,<note place="margin">
                <div n="1" type="proof">
                   <head>1. Faith cometh only by the preach<g ref="char:EOLhyphen"/>ing of the Word, and increa<g ref="char:EOLhyphen"/>seth daily by it.</head>
                   <p>
-                     <pb n="9" facs="tcp:000328_0016_0FA4AD3966F35040"/>But how shall they call on him, in whom they have not believed?<note place="margin">
+                     <pb n="9" facs="unknown:000328_0016_0FA4AD3966F35040"/>But how shall they call on him, in whom they have not believed?<note place="margin">
                         <hi>Rom. 10.14</hi>
                      </note> and how shall they believe in him, of whom they have not heard? and how shall they hear without a Prea<g ref="char:EOLhyphen"/>cher?</p>
                   <p>Where there is no vision, the people de<g ref="char:EOLhyphen"/>cay,<note place="margin">
@@ -483,7 +484,7 @@ unto them, I am the bread of life, he that cometh to me,<note place="margin">
                </div>
             </div>
             <div n="6" type="principle">
-               <pb n="10" facs="tcp:000328_0017_0FA4AD3A2A2BB720"/>
+               <pb n="10" facs="unknown:000328_0017_0FA4AD3A2A2BB720"/>
                <head>The sixth Principle.</head>
                <p>
                   <hi>Q.</hi> What is the state of all men after death?</p>
@@ -515,7 +516,7 @@ unto them, I am the bread of life, he that cometh to me,<note place="margin">
                         <hi>2 Pet. 2.7</hi>
                      </note>And delivered just <hi>Lot,</hi> vexed with the unclean conversation of the wicked.</p>
                   <p>
-                     <pb n="11" facs="tcp:000328_0018_0FA4AD3AAA8331A8"/>And the Lord said unto him, Go through the midst of the City,<note place="margin">
+                     <pb n="11" facs="unknown:000328_0018_0FA4AD3AAA8331A8"/>And the Lord said unto him, Go through the midst of the City,<note place="margin">
                         <hi>Ezek. 9.4</hi>
                      </note> even through the midst of Jerusalem, and set a mark upon the foreheads of them that mourn and cry out for all the abominations that be done in the midst thereof.</p>
                </div>
@@ -540,7 +541,7 @@ unto them, I am the bread of life, he that cometh to me,<note place="margin">
             </div>
          </div>
          <div type="exposition_of_principles">
-            <pb n="12" facs="tcp:000328_0019_0FA4AD3B98EEF710"/>
+            <pb n="12" facs="unknown:000328_0019_0FA4AD3B98EEF710"/>
             <head>The Exposition of the Six Principles.</head>
             <div n="1" type="exposition">
                <head>The first Principle Expounded.</head>
@@ -560,7 +561,7 @@ unto them, I am the bread of life, he that cometh to me,<note place="margin">
                      </gap>4.17</note> the wonderful frame of the world, me thinks the silly creatures, that be in it, could never make it neither could it make it self, and there<g ref="char:EOLhyphen"/>fore b<gap reason="illegible: missing" extent="1 letter">
                      <desc>•</desc>
                   </gap>sides all these the Maker of it must needs be God. Even as when a man comes into a strange country, and sees fair and sumptuous buildings, and yet finds no li<g ref="char:EOLhyphen"/>ving
-<pb n="13" facs="tcp:000328_0020_0FA4AD3C32490430"/>
+<pb n="13" facs="unknown:000328_0020_0FA4AD3C32490430"/>
 creatures there besides birds and beasts, he will not imagine that either birds or beasts reared those buildings, but he presently conceives that some men either are or have been there.</p>
                <p>
                   <hi>Q.</hi> What other reason have you?</p>
@@ -584,7 +585,7 @@ creatures there besides birds and beasts, he will not imagine that either birds 
                   <hi>A.</hi> First he is <note n="f" place="margin">Job 2.13</note> 
                   <hi>most wise,</hi> understanding all things aright, and knowing the reason of them. Secondly, he is <note n="g" place="margin">Isai. 6.3 Exo. 20.5.6</note> 
                   <hi>most holy,</hi> which appeareth in that he is <hi>most just,</hi> and <hi>mer<g ref="char:EOLhyphen"/>ciful</hi>
-                  <pb n="14" facs="tcp:000328_0021_0FA4AD3D146298F0"/>
+                  <pb n="14" facs="unknown:000328_0021_0FA4AD3D146298F0"/>
 unto his creatures. Thirdly, he is <note n="h" place="margin">Isai. 41.4</note> 
                   <hi>eternal,</hi> without either beginning, or end of dayes. Lastly, he is <note n="i" place="margin">Psal. 139.12.</note> 
                   <hi>infinite,</hi> both because he is present in all places, and because he is of power sufficient to do whatsoever he <note n="k" place="margin">Job. 9.4</note> 
@@ -614,7 +615,7 @@ unto his creatures. Thirdly, he is <note n="h" place="margin">Isai. 41.4</note>
                <p>
                   <hi>Q.</hi> Let us now come to our selves, and first tell me what the natural estate of man is?</p>
                <p>
-                  <pb n="15" facs="tcp:000328_0022_0FA4AD3DB6C13640"/>
+                  <pb n="15" facs="unknown:000328_0022_0FA4AD3DB6C13640"/>
                   <hi>A.</hi> Every man by nature is <note n="q" place="margin">Eph. 2.2 1 Tim. 5.6</note> 
                   <hi>dead</hi> in sin, as a loathsome carrion, or as a dead corps lieth rotting and stinking in the grave, having in him the seed of all sins.</p>
                <p>
@@ -634,7 +635,7 @@ unto his creatures. Thirdly, he is <note n="h" place="margin">Isai. 41.4</note>
                <p>
                   <hi>Q.</hi> Shew me how every part of man is corrupted with sin?</p>
                <p>A. First, in the <note n="x" place="margin">1 Cor 2.14 Rom 8.5</note> mind, there is no<g ref="char:EOLhyphen"/>thing but ignorance and blindness con<g ref="char:EOLhyphen"/>cerning heavenly matters. Secondly, the <note n="y" place="margin">Tit 1.15 Eph 4.18, 19 Isai 57.20</note> conscience is defiled, being al<g ref="char:EOLhyphen"/>wayes either benummed with sin, or else turmoiled with inward accusations and terrors. Thirdly, the <note n="z" place="margin">Phil. 2.13.</note> will of man only
-<pb n="16" facs="tcp:000328_0023_0FA4AD3E9EA035C0"/>
+<pb n="16" facs="unknown:000328_0023_0FA4AD3E9EA035C0"/>
 willeth and lusteth after evil. Fourthly, the <note n="a" place="margin">Gal. 5.24</note> affections of the heart, as love, joy, hope, desire, <hi>&amp;c.</hi> are moved and stirred to that which is evil, to embrace it; and they are never stirred unto that which is good, unless it be, to eschew it. Lastly, the <note n="b" place="margin">Rom 6.19</note> members of the body are the in<g ref="char:EOLhyphen"/>struments and tools of the mind, for the execution of sin.</p>
                <p>Q What be those evil actions, that are the fruits of this corruption?</p>
                <p>
@@ -651,7 +652,7 @@ willeth and lusteth after evil. Fourthly, the <note n="a" place="margin">Gal. 5.
                         <desc>〈◊〉</desc>
                      </gap>, 10</note> He is continually subject to the curse of God in his life time, in the end of his life, and after his life.</p>
                <p>
-                  <pb n="17" facs="tcp:000328_0024_0FA4AD3F3858AEC0"/>Q. VVhat is the curse of God in this life?</p>
+                  <pb n="17" facs="unknown:000328_0024_0FA4AD3F3858AEC0"/>Q. VVhat is the curse of God in this life?</p>
                <p>
                   <hi>A.</hi> In the <note n="g" place="margin">Deut. 28.21, 22, 27, 65, 66, 67.</note> body, diseases, <gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
@@ -671,7 +672,7 @@ willeth and lusteth after evil. Fourthly, the <note n="a" place="margin">Gal. 5.
                <p>
                   <hi>A.</hi> 
                   <note n="l" place="margin">Gal. 3.10</note> Eternal damnation in hell fire, whereof every man is guilty, and is in as
-<pb n="18" facs="tcp:000328_0025_0FA4AD4168AB1E18"/>
+<pb n="18" facs="unknown:000328_0025_0FA4AD4168AB1E18"/>
 great danger of it<g ref="char:punc">▪</g> as the traitor appre<g ref="char:EOLhyphen"/>hended is in danger of hanging, draw<g ref="char:EOLhyphen"/>ing and quartering.</p>
             </div>
             <div n="3" type="exposition">
@@ -699,7 +700,7 @@ great danger of it<g ref="char:punc">▪</g> as the traitor appre<g ref="char:EO
                <p>A. He <note n="q" place="margin">1 Tim. 2.5, 6</note> must be a man, because ma<gap reason="illegible: missing" extent="1 letter">
                      <desc>•</desc>
                   </gap> had sinned, and therefore a man must
-<pb n="19" facs="tcp:000328_0026_0FA4AD41816A2EC0"/>
+<pb n="19" facs="unknown:000328_0026_0FA4AD41816A2EC0"/>
 die for sin, to appease Gods wrath: he must be God, to sustain and uphold the <hi>manhood,</hi> to overcome &amp; vanquish death.</p>
                <p>
                   <hi>Q.</hi> What be the Offices of Christ, to make him an all sufficient Saviour?</p>
@@ -729,7 +730,7 @@ die for sin, to appease Gods wrath: he must be God, to sustain and uphold the <h
                <p>A. Never but <note n="y" place="margin">Heb. 9.28</note> once.</p>
                <p>
                   <hi>Q.</hi> What death did he suffer, when he
-<pb n="20" facs="tcp:000328_0027_0FA4AD4241124EA8"/>
+<pb n="20" facs="unknown:000328_0027_0FA4AD4241124EA8"/>
 sacrificed himself?</p>
                <p>
                   <hi>A. A</hi> death upon the Cross, peculiar to him alone; <note n="z" place="margin">Isai. 53.5. Joh. 12.27 Rev. 19.15 Luk 22.44</note> for besides the separa<g ref="char:EOLhyphen"/>tion of body and soul, he felt also the pangs of hell, in that the whole wrath of God due to the sin of man, was poured forth upon him.</p>
@@ -748,7 +749,7 @@ sacrificed himself?</p>
                   <hi>A</hi> By his <note n="c" place="margin">1 Cor. 1.30 Rom. 3.25 2 Cor. 5.21</note> 
                   <hi>perfect righteousness,</hi> which consists of two parts: the first, the <hi>inte<g ref="char:EOLhyphen"/>grity</hi> and <hi>pureness</hi> of his humane nature: the other, <note n="d" place="margin">Rom. 5.19 Rom. 4.1</note> his <hi>obedience</hi> in performing all that the Law requireth.</p>
                <p>Q. You have shewed how Christ doth make <hi>satisfaction</hi>; tell me likewise
-<pb n="21" facs="tcp:000328_0028_0FA4AD430BE71E80"/>
+<pb n="21" facs="unknown:000328_0028_0FA4AD430BE71E80"/>
 how doth he make <hi>intercession</hi>?</p>
                <p>
                   <hi>A.</hi> He doth alone continually <note n="d" place="margin">Rom. 8.34 1 Pet. 2.5</note> ap<g ref="char:EOLhyphen"/>pear before his Father in heaven, ma<g ref="char:EOLhyphen"/>king the faithful and all their prayers ac<g ref="char:EOLhyphen"/>ceptable unto him, by applying of the merits of his own perfect <hi>satisfaction</hi> to them.</p>
@@ -766,7 +767,7 @@ how doth he make <hi>intercession</hi>?</p>
                <p>
                   <hi>A.</hi> In <note n="h" place="margin">Isai. 9.7 &amp; 30.21.</note> that he doth continually in<g ref="char:EOLhyphen"/>spire and direct his servants by the di<g ref="char:EOLhyphen"/>vine power of his holy Spirit, according to his holy Word.</p>
                <p>
-                  <pb n="22" facs="tcp:000328_0029_0FA4AD44ACEBBD98"/>
+                  <pb n="22" facs="unknown:000328_0029_0FA4AD44ACEBBD98"/>
                   <hi>Q.</hi> But to whom will this blessed King communicate all these means of salva<g ref="char:EOLhyphen"/>tion?</p>
                <p>
                   <hi>A.</hi> He <note n="i" place="margin">Mat. 20.16 Iohn 1.11 1 Iohn 2.2 Gal. 3.27 Col. 2.12</note> offereth them to many, and they are <hi>sufficient</hi> to save all mankind; but all shall not be saved thereby, because by faith they will not receive them.</p>
@@ -784,7 +785,7 @@ how doth he make <hi>intercession</hi>?</p>
                   <hi>Q.</hi> How doth God prepare mens hearts?</p>
                <p>A. <note n="m" place="margin">Ezek 11.19 Hos. 6.1, 2</note> By bruising them, as if one would break an hard stone to powder: and this is done by humbling them.</p>
                <p>
-                  <pb n="23" facs="tcp:000328_0030_0FA4AD4540EE9A08"/>
+                  <pb n="23" facs="unknown:000328_0030_0FA4AD4540EE9A08"/>
                   <hi>Q.</hi> How doth God humble a man?</p>
                <p>
                   <hi>A.</hi> By working in him a sight of his sins, and a sorrow for them.</p>
@@ -825,7 +826,7 @@ how doth he make <hi>intercession</hi>?</p>
                   </note> life, <note n="h" place="margin">
                      <hi>VII.</hi>
                   </note> cha<g ref="char:EOLhyphen"/>stity,
-<pb n="24" facs="tcp:000328_0031_0FA4AD46F818EE70"/>
+<pb n="24" facs="unknown:000328_0031_0FA4AD46F818EE70"/>
 wealth, <note n="i" place="margin">IX.</note> good name, <note n="k" place="margin">X.</note> though it be but in the secret thoughts and moti<g ref="char:EOLhyphen"/>ons of the heart,<note n="h" place="margin">VIII.</note> unto which thou givest no liking, or consent.</p>
                <p>
                   <hi>Q</hi> What is sorrow for sin?</p>
@@ -840,7 +841,7 @@ wealth, <note n="i" place="margin">IX.</note> good name, <note n="k" place="marg
                <p>A. By working certain inward moti<g ref="char:EOLhyphen"/>ons in the heart, which are the seeds of faith, out of which it breedeth.</p>
                <p>Q. VVhat is the first of them?</p>
                <p>A. VVhen a man humbled under the
-<pb n="25" facs="tcp:000328_0032_0FA4AD476706E7E0"/>
+<pb n="25" facs="unknown:000328_0032_0FA4AD476706E7E0"/>
 burthen of his sins <note n="o" place="margin">Isai. 55.2 Joh. 7.27 Luk. 1.53</note> doth acknowledge and feel that he stands in great need of Christ.</p>
                <p>Q What is the second?</p>
                <p>
@@ -868,7 +869,7 @@ burthen of his sins <note n="o" place="margin">Isai. 55.2 Joh. 7.27 Luk. 1.53</n
                <p>Q. What is the least measure of true Faith that any man can have?</p>
                <p>
                   <hi>A.</hi> When a man of an humble spirit,
-<pb n="26" facs="tcp:000328_0033_0FA4AD4A4B3CC520"/>
+<pb n="26" facs="unknown:000328_0033_0FA4AD4A4B3CC520"/>
 by reason of the <note n="u" place="margin">Isai. 42.3 Mat. 17.20 Luk. 17.5</note> littleness of his faith doth not yet <hi>feel</hi> the assurance of the for<g ref="char:EOLhyphen"/>giveness of his sins, and yet he is perswa<g ref="char:EOLhyphen"/>ded that they are pardonable; and there<g ref="char:EOLhyphen"/>fore desireth that they should be pardon<g ref="char:EOLhyphen"/>ed, and with his heart prayeth to God to pardon them.</p>
                <p>
                   <hi>Q.</hi> How do you know that such a man hath faith?</p>
@@ -878,7 +879,7 @@ by reason of the <note n="u" place="margin">Isai. 42.3 Mat. 17.20 Luk. 17.5</not
                <p>A. VVhen a man daily increasing in Faith, comes to be <note n="a" place="margin">Ro. 7.38, 39 Cant. 6.7</note> fully perswaded of Gods love in Christ towards himself <hi>par<g ref="char:EOLhyphen"/>ticularly,</hi> and of the forgiveness of his own sins.</p>
                <p>Q. VVhen shall a Christians heart come to this full assurance?</p>
                <p>A. Not <note n="b" place="margin">2 Tim. 4.7, 8 Psa. 23.6 with 1, 2, 3, 4 verses</note> at the first, but in some con<g ref="char:EOLhyphen"/>tinuance of time, when he hath been
-<pb n="27" facs="tcp:000328_0034_0FA4AD4C6F532490"/>
+<pb n="27" facs="unknown:000328_0034_0FA4AD4C6F532490"/>
 well <hi>practised in repentance,</hi> and hath had divers experiences of Gods love to him in Christ: then, after them will appear in his heart the ful<gap reason="illegible: indecipherable" extent="2 letters">
                      <desc>••</desc>
                   </gap>ss of perswasion, which is the <hi>ripeness</hi> 
@@ -897,7 +898,7 @@ well <hi>practised in repentance,</hi> and hath had divers experiences of Gods l
                <p>
                   <hi>Q.</hi> What profit comes by being thus justified?</p>
                <p>A. Hereby, <note n="h" place="margin">Rom. 4.17 Apoc. 21.17</note> and by no other means in the world, the believer shall be accep<g ref="char:EOLhyphen"/>ted
-<pb n="28" facs="tcp:000328_0035_0FA4AD4CC4899B18"/>
+<pb n="28" facs="unknown:000328_0035_0FA4AD4CC4899B18"/>
 before Gods Judgement seat, as <hi>wor<g ref="char:EOLhyphen"/>thy</hi> of eternal life by the merits of the same righteousness of Christ.</p>
                <p>Q. Do not good works then make us <hi>worthy</hi> of eternal life.</p>
                <p>
@@ -917,7 +918,7 @@ before Gods Judgement seat, as <hi>wor<g ref="char:EOLhyphen"/>thy</hi> of etern
                   <hi>A.</hi> By the <note n="m" place="margin">Rom. 6.4</note> merits and power of Christs death, which being by faith ap<g ref="char:EOLhyphen"/>plied, is as a <note n="n" place="margin">1 Pet. 4.1, 2.</note> 
                   <hi>corrasive</hi> to abate, con<g ref="char:EOLhyphen"/>sume, and weaken the power of sin.</p>
                <p>
-                  <pb n="29" facs="tcp:000328_0036_0FA4AD4DBA4CF128"/>Q. How is a man endued with inhe<g ref="char:EOLhyphen"/>rent righteousness?</p>
+                  <pb n="29" facs="unknown:000328_0036_0FA4AD4DBA4CF128"/>Q. How is a man endued with inhe<g ref="char:EOLhyphen"/>rent righteousness?</p>
                <p>
                   <hi>A.</hi> Through the <note n="m" place="margin">Rom. 6.5, 6 Phil. 3.10</note> virtue of Christs resurrection: which being applied by saith, is as a <hi>restorative</hi> to revive a man that is dead in sin, to newness of life.</p>
                <p>
@@ -940,7 +941,7 @@ before Gods Judgement seat, as <hi>wor<g ref="char:EOLhyphen"/>thy</hi> of etern
                   </gap>eavour to leave all his sins, and to live a Christian life, according to all Gods Commandments.</p>
                <p>Q. What goeth with Repentance?</p>
                <p>A. <note n="r" place="margin">Gal. 5.17 Eph. 6.11, 12</note> A continual fighting and strug<g ref="char:EOLhyphen"/>ling against the assaults of a mans own flesh; against the motions of the devil,
-<pb n="30" facs="tcp:000328_0037_0FA4AD4E4EE3FB30"/>
+<pb n="30" facs="unknown:000328_0037_0FA4AD4E4EE3FB30"/>
 and the inticements of the world.</p>
                <p>
                   <hi>Q.</hi> What followeth after a man hath gotten the victory in any temptation or affliction?</p>
@@ -969,7 +970,7 @@ and the inticements of the world.</p>
                   <hi>A.</hi> By <note n="z" place="margin">1 Cor. 7.11</note> seven. 1. A care to leave the sin, into which he is fallen. 2. An utte<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="31" facs="tcp:000328_0038_0FA4AD4FF615C788"/>
+                  <pb n="31" facs="unknown:000328_0038_0FA4AD4FF615C788"/>
 condemning of himself for it, with a cra<g ref="char:EOLhyphen"/>ving of pardon. 3, A great anger a<g ref="char:EOLhyphen"/>gainst himself for his carelessness. 4. A fear lest he should fall into the same sin again. 5. A desire ever after to please God. 6. A zeal of the same. 7. Re<g ref="char:EOLhyphen"/>venge upon himself for his former of<g ref="char:EOLhyphen"/>fence.</p>
             </div>
             <div n="5" type="exposition">
@@ -988,7 +989,7 @@ condemning of himself for it, with a cra<g ref="char:EOLhyphen"/>ving of pardon.
                   <hi>Q.</hi> How know you that the Scrip<g ref="char:EOLhyphen"/>tures are the VVord of God, and not mens policies?</p>
                <p>
                   <hi>A.</hi> I am assured of it: first, <note n="b" place="margin">Eph. 1.13</note> because the holy Ghost perswadeth my conscience that it is so: secondly, I see it by experi<g ref="char:EOLhyphen"/>ence; for the preaching of the <note n="c" place="margin">Heb. 4.12 1 Cor. 14.24, 25.</note> Scrip<g ref="char:EOLhyphen"/>tures have the power of God in them to humble a man when they are preached,
-<pb n="32" facs="tcp:000328_0039_0FA4AD509BB50098"/>
+<pb n="32" facs="unknown:000328_0039_0FA4AD509BB50098"/>
 and to cast him down to hell, and after<g ref="char:EOLhyphen"/>ward to <hi>restore</hi> and raise him up again.</p>
                <p>Q. What is the use of the Word of God preached?</p>
                <p>
@@ -1004,7 +1005,7 @@ and to cast him down to hell, and after<g ref="char:EOLhyphen"/>ward to <hi>rest
                <p>
                   <hi>A.</hi> Because we are dull to conceive, and to remember them</p>
                <p>
-                  <pb n="33" facs="tcp:000328_0040_0FA4AD517102F388"/>Q. VVhy do the Sacraments seal un<g ref="char:EOLhyphen"/>to us the mercies of God?</p>
+                  <pb n="33" facs="unknown:000328_0040_0FA4AD517102F388"/>Q. VVhy do the Sacraments seal un<g ref="char:EOLhyphen"/>to us the mercies of God?</p>
                <p>
                   <hi>A.</hi> Because we are full of unbelief, and doubting of them.</p>
                <p>Q. VVhy is the Sacrament the instru<g ref="char:EOLhyphen"/>ment of the Spirit, to convey the mer<g ref="char:EOLhyphen"/>cies of God into our hearts?</p>
@@ -1030,7 +1031,7 @@ and to cast him down to hell, and after<g ref="char:EOLhyphen"/>ward to <hi>rest
                <p>
                   <hi>A.</hi> To <note n="k" place="margin">Mar. 16.16</note> receive Christ, and to repent of his sins.</p>
                <p>
-                  <pb n="34" facs="tcp:000328_0041_0FA4AD51F3BD7BC0"/>
+                  <pb n="34" facs="unknown:000328_0041_0FA4AD51F3BD7BC0"/>
                   <hi>Q.</hi> What meaneth the <hi>sprinkling</hi> or <hi>dipping in water?</hi>
                </p>
                <p>
@@ -1053,7 +1054,7 @@ and to cast him down to hell, and after<g ref="char:EOLhyphen"/>ward to <hi>rest
                <p>
                   <hi>Q.</hi> What is done in the Lords Sup<g ref="char:EOLhyphen"/>per?</p>
                <p>
-                  <pb n="35" facs="tcp:000328_0042_0FA4AD52B4E707A0"/>A. The former Covenant, solemnly ratified in Baptism, is renewed <note n="m" place="margin">1 Cor. 1.23 24, <hi>&amp;</hi>c. &amp; 1<gap reason="illegible: indecipherable" extent="1 letter">
+                  <pb n="35" facs="unknown:000328_0042_0FA4AD52B4E707A0"/>A. The former Covenant, solemnly ratified in Baptism, is renewed <note n="m" place="margin">1 Cor. 1.23 24, <hi>&amp;</hi>c. &amp; 1<gap reason="illegible: indecipherable" extent="1 letter">
                         <desc>•</desc>
                      </gap> 13.</note> in the Lords Supper, between the Lord him<g ref="char:EOLhyphen"/>self and the receiver.</p>
                <p>
@@ -1069,7 +1070,7 @@ and to cast him down to hell, and after<g ref="char:EOLhyphen"/>ward to <hi>rest
                   <hi>Q.</hi> VVhat shall a true receiver feel in himself, after the receiving of the Sa<g ref="char:EOLhyphen"/>crament?</p>
                <p>A. <note n="p" place="margin">1 Cor. 10.17. &amp; 11.24</note> The increase of his faith in Christ the increase of Sanctification, a greater measure of dying to sin, a greater care to live in the newness of life.</p>
                <p>
-                  <pb n="36" facs="tcp:000328_0043_0FA4AD536B1AE1B0"/>Q. VVhat if a man, after the recei<g ref="char:EOLhyphen"/>ving of the Sacrament, never find any such thing in himself?</p>
+                  <pb n="36" facs="unknown:000328_0043_0FA4AD536B1AE1B0"/>Q. VVhat if a man, after the recei<g ref="char:EOLhyphen"/>ving of the Sacrament, never find any such thing in himself?</p>
                <p>
                   <hi>A.</hi> He may well suspect himself, whe<g ref="char:EOLhyphen"/>ther he did ever repent or not, and there<g ref="char:EOLhyphen"/>upon is to use means co come to found faith and repentance.</p>
                <p>Q. What is another means of increa<g ref="char:EOLhyphen"/>sing faith?</p>
@@ -1101,7 +1102,7 @@ and to cast him down to hell, and after<g ref="char:EOLhyphen"/>ward to <hi>rest
                   </note> he may <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> himself on Gods Providence for all the means of this temporal life.
-<pb n="37" facs="tcp:000328_0044_0FA4AD54480102E0"/>
+<pb n="37" facs="unknown:000328_0044_0FA4AD54480102E0"/>
 5. <note n="e" place="margin">
                      <hi>V.</hi>
                   </note> That he may be justified, and be at peace with God. 6. <note n="f" place="margin">
@@ -1132,7 +1133,7 @@ and to cast him down to hell, and after<g ref="char:EOLhyphen"/>ward to <hi>rest
                <p>
                   <hi>Q.</hi> VVhat sign is there to know this day from other dayes?</p>
                <p>A. <note n="k" place="margin">2 Pet. 3.1.</note> Heaven and earth shall be con<g ref="char:EOLhyphen"/>sumed
-<pb n="38" facs="tcp:000328_0045_0FA4AD54EB31B188"/>
+<pb n="38" facs="unknown:000328_0045_0FA4AD54EB31B188"/>
 with fire immediately before the coming of the Judge.</p>
                <p>
                   <hi>Q.</hi> VVho shall be the Judge?</p>
@@ -1154,7 +1155,7 @@ with fire immediately before the coming of the Judge.</p>
                <p>
                   <hi>A.</hi> The <note n="p" place="margin">Rev. 20.21 Dan. 7.20</note> books of every mans doings shall be laid open, mens consciences shall be made either to accuse them or excuse them, and every man shall be tried by the works which he did in his life time, be<g ref="char:EOLhyphen"/>cause they are open and manifest signs <note n="q" place="margin">Job 31.8. &amp; 5.24.</note> of faith or unbelief.</p>
                <p>
-                  <pb n="39" facs="tcp:000328_0046_0FA4AD55B57DDCE8"/>
+                  <pb n="39" facs="unknown:000328_0046_0FA4AD55B57DDCE8"/>
                   <hi>Q.</hi> What sentence will he give?</p>
                <p>
                   <hi>A.</hi> He will give <note n="q" place="margin">Mat. 25.34<g ref="char:punc">▪</g> 41.</note> sentence of salvation to the Elect and godly, but he will pro<g ref="char:EOLhyphen"/>nounce sentence of Damnation against unbelievers and reprobates.</p>
@@ -1176,7 +1177,7 @@ with fire immediately before the coming of the Judge.</p>
       </body>
       <back>
          <div type="epigram">
-            <pb facs="tcp:000328_0047_0FA4AD56C88507C0"/>
+            <pb facs="unknown:000328_0047_0FA4AD56C88507C0"/>
             <p>THe foregoing Excellent Composure, <hi>(with his other VVorks)</hi> gave full occasion for this <hi>Epigram</hi> on its famous <hi>Author,</hi> who was lame in his Right Hand, but like another <hi>Ehud,</hi> did no small service to the <hi>English Israel.</hi>
             </p>
             <lg>
